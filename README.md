@@ -21,31 +21,19 @@ I'm a developer passionate about software development, AI, and machine learning.
 
 ### GitHub Analytics
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=devbyilham&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=issues,prs,contribs"
-    alt="GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyilham&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=devbyilham&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devbyilham&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyilham&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+        alt="Most Used Languages"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://streak-stats.demolab.com?user=devbyilham&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
