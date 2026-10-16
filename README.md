@@ -1,115 +1,75 @@
-<h1 align="center">Hi, I'm Ilham 👋</h1>
-
-<h3 align="center">Building Things, One Line at a Time</h3>
+<h1 align="center">Ilham</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Exploring+AI+%26+Machine+Learning;Building+Software%2C+One+Project+at+a+Time" alt="Typing SVG" />
+  <samp>Building Things, One Line at a Time.</samp>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devbyilham&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I'm an Informatics Engineering student passionate about technology and software development.
-
-Exploring AI, machine learning, and software development. Building projects, solving problems, and learning something new with every line of code.
-
-- 📍 Based in Bandung, Indonesia
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Building web applications and exploring new technologies
-- 🌱 Always learning, always building
-- ⚡ **Eat. Sleep. Code. Repeat.**
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,vue,react,laravel,flask,mysql,sklearn,git,linux&theme=dark" alt="Tech Stack" />
+  <a href="https://github.com/devbyilham">
+    <img src="https://img.shields.io/badge/GitHub-devbyilham-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-58A6FF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-30363D?style=flat-square" alt="Location" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### About
+
+I'm a developer passionate about building software, exploring new technologies, and solving real-world problems.
+
+Currently exploring artificial intelligence, machine learning, and modern web development. I enjoy turning ideas into practical applications and continuously improving my skills through hands-on projects.
+
+**Eat. Sleep. Code. Repeat.**
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,vue,react,laravel,flask,mysql,git,linux&theme=dark" alt="Technologies" />
+</p>
+
+---
+
+### Selected Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 RicePredictAI
-
-Machine learning project for predicting rice production using agricultural data.
-
-**Tech Stack**
-- Python
-- Scikit-learn
-- Machine Learning
-
-[View Repository →](https://github.com/devbyilham/RicePredictAI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 OurNetflix
-
-A web development project inspired by Netflix.
-
-**Tech Stack**
-- JavaScript
-- HTML
-- CSS
-
-[View Repository →](https://github.com/devbyilham/OurNetflix)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 NusaGuide
-
-A tourism recommendation system combining sentiment analysis and an AI-powered chatbot.
-
-**Focus**
-- Natural Language Processing
-- Sentiment Analysis
-- Recommendation Systems
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 What's Next?
-
-Always exploring new technologies and building projects to improve my skills.
-
-**Current Interests**
-- Artificial Intelligence
-- Machine Learning
-- Software Engineering
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>RicePredictAI</h3>
+      <p>
+        A machine learning application for predicting rice production using agricultural data.
+      </p>
+      <p>
+        <sub>Python · Machine Learning</sub>
+      </p>
+      <a href="https://github.com/devbyilham/RicePredictAI">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>OurNetflix</h3>
+      <p>
+        A web development project inspired by streaming platforms.
+      </p>
+      <p>
+        <sub>JavaScript · Web Development</sub>
+      </p>
+      <a href="https://github.com/devbyilham/OurNetflix">View Project →</a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devbyilham&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyilham&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devbyilham&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyilham&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <strong>Eat. Sleep. Code. Repeat.</strong>
-</p>
-
-<p align="center">
-  <samp>Building today. Improving tomorrow.</samp>
+  <sub>Eat. Sleep. Code. Repeat.</sub>
 </p>
