@@ -16,35 +16,6 @@ Currently exploring artificial intelligence, machine learning, and modern web de
 
 ---
 
-### Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>RicePredictAI</h3>
-      <p>
-        A machine learning application for predicting rice production using agricultural data.
-      </p>
-      <p>
-        <sub>Python · Machine Learning</sub>
-      </p>
-      <a href="https://github.com/devbyilham/RicePredictAI">View Project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>OurNetflix</h3>
-      <p>
-        A web development project inspired by streaming platforms.
-      </p>
-      <p>
-        <sub>JavaScript · Web Development</sub>
-      </p>
-      <a href="https://github.com/devbyilham/OurNetflix">View Project →</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### GitHub Analytics
 
 <p align="center">
