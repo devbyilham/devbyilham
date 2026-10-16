@@ -2,16 +2,15 @@
 
 ### About
 
-I'm a developer passionate about building software, exploring new technologies, and solving real-world problems.
+I'm a developer passionate about software development, AI, and machine learning. I enjoy exploring new technologies, solving problems, and turning ideas into practical applications through hands-on projects.
 
-Currently exploring artificial intelligence, machine learning, and modern web development. I enjoy turning ideas into practical applications and continuously improving my skills through hands-on projects.
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,vue,react,laravel,flask,mysql,git,linux&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,js,vue,react,laravel,mysql,git,linux&theme=dark" alt="Technologies" />
 </p>
 
 ---
