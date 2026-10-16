@@ -1,7 +1,5 @@
 <h1 align="center">Eat. Sleep. Code. Repeat.</h1>
 
----
-
 ### About
 
 I'm a developer passionate about software development, AI, and machine learning. I enjoy exploring new technologies, solving problems, and turning ideas into practical applications through hands-on projects.
