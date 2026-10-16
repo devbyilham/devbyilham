@@ -24,7 +24,7 @@ I'm a developer passionate about software development, AI, and machine learning.
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=devbyilham&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=devbyilham&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=issues,prs,contribs"
     alt="GitHub Stats"
   />
   <img
