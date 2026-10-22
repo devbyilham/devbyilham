@@ -19,12 +19,12 @@ I'm a developer passionate about software development. I enjoy exploring new tec
 
 ---
 
-### Contribution Activity
+### My Coding Languages
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/devbyilham/devbyilham/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyilham&layout=donut&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Most Used Programming Languages"
+    width="350"
   />
 </p>
