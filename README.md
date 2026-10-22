@@ -4,7 +4,7 @@
 
 ### About
 
-I'm a developer passionate about software development, AI, and machine learning. I enjoy exploring new technologies, solving problems, and turning ideas into practical applications through hands-on projects.
+I'm a developer passionate about software development. I enjoy exploring new technologies, solving problems, and turning ideas into practical applications through hands-on projects.
 
 ---
 
